@@ -10,5 +10,3 @@ admin.site.register(Grade)
 admin.site.register(Faculty)
 admin.site.register(Department)
 
-
-
